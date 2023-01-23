@@ -1,2 +1,2 @@
 # Metroidvania
- 8bit Metroidvania tutorial
+ 8bit Metroidvania Game
